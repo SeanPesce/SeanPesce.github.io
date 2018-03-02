@@ -1,6 +1,6 @@
-# SeanPesce.github.io  
+# [SeanPesce.github.io](https://SeanPesce.github.io)  
 
-My personal GitHub-hosted [website](https://SeanPesce.github.io), featuring my [resume & software portfolio](https://SeanPesce.github.io/Portfolio).  
+My personal GitHub-hosted website, featuring my [resume & software portfolio](https://SeanPesce.github.io/Portfolio).  
 
 
 ## Author  
